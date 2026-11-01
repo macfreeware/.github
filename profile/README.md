@@ -16,13 +16,15 @@ The apps are developed on GitLab at [gitlab.com/freeware2](https://gitlab.com/fr
 <a href="https://github.com/macfreeware/MacZilla"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/Resources/AppIcon.png" width="96" alt="MacZilla"></a><br>
 <a href="https://github.com/macfreeware/MacZilla"><b>MacZilla</b></a><br>
 <sub>FTP · FTPS · SFTP client</sub><br><br>
-In the spirit of FileZilla: two panes, tabs, a transfer queue, folder sync and a Site Manager.
+In the spirit of FileZilla: two panes, tabs, a transfer queue, folder sync and a Site Manager.<br>
+<sub>Free alternative to FileZilla, Cyberduck and Transmit</sub>
 </td>
 <td align="center" valign="top" width="50%">
 <a href="https://github.com/macfreeware/MacRAR"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/icon.png" width="96" alt="MacRAR"></a><br>
 <a href="https://github.com/macfreeware/MacRAR"><b>MacRAR</b></a><br>
 <sub>Archive manager</sub><br><br>
-WinRAR-style: RAR, ZIP, 7Z and TAR, with a Finder right-click menu.
+WinRAR-style: RAR, ZIP, 7Z and TAR, with a Finder right-click menu.<br>
+<sub>Free alternative to WinRAR, Keka, BetterZip and The Unarchiver</sub>
 </td>
 </tr>
 <tr>
@@ -38,13 +40,15 @@ WinRAR-style: RAR, ZIP, 7Z and TAR, with a Finder right-click menu.
 <a href="https://github.com/macfreeware/MacCalendar"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/AppIconPreview.png" width="96" alt="MacCalendar"></a><br>
 <a href="https://github.com/macfreeware/MacCalendar"><b>MacCalendar</b></a><br>
 <sub>Menu bar calendar · world clock</sub><br><br>
-A calendar in the menu bar with a second world clock and flags, day notes and 400+ cities.
+A calendar in the menu bar with a second world clock and flags, day notes and 400+ cities.<br>
+<sub>Free alternative to Itsycal, Dato and Clocker</sub>
 </td>
 <td align="center" valign="top" width="50%">
 <a href="https://github.com/macfreeware/MacMonitor"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/icon.png" width="96" alt="MacMonitor"></a><br>
 <a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a><br>
 <sub>Menu bar CPU · RAM monitor</sub><br><br>
-Live CPU and RAM in the menu bar; per-core load, memory breakdown, top processes and free disk space with a click.
+Live CPU and RAM in the menu bar; per-core load, memory breakdown, top processes and free disk space with a click.<br>
+<sub>Free alternative to iStat Menus, Stats and MenuMeters</sub>
 </td>
 </tr>
 <tr>
@@ -77,7 +81,7 @@ Found a bug or have an idea? Open an issue on the app's page. Suggestions are we
 
 ## Note
 
-These are independent projects. They are not affiliated with or endorsed by Apple, FileZilla or RARLAB/WinRAR; those names belong to their owners and are used only to describe what the apps do.
+These are independent projects. They are not affiliated with or endorsed by Apple or by the makers of the other apps named here (FileZilla, Cyberduck, Transmit, RARLAB/WinRAR, Keka, BetterZip, The Unarchiver, Itsycal, Dato, Clocker, iStat Menus, Stats, MenuMeters); those names belong to their owners and are used only to describe what the apps do.
 
 ---
 
@@ -99,13 +103,15 @@ Uygulamalar GitLab'da, [gitlab.com/freeware2](https://gitlab.com/freeware2) adre
 <a href="https://github.com/macfreeware/MacZilla"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/Resources/AppIcon.png" width="96" alt="MacZilla"></a><br>
 <a href="https://github.com/macfreeware/MacZilla"><b>MacZilla</b></a><br>
 <sub>FTP · FTPS · SFTP istemcisi</sub><br><br>
-FileZilla tarzı: iki panel, sekmeler, aktarım kuyruğu, klasör eşitleme ve Site Yöneticisi.
+FileZilla tarzı: iki panel, sekmeler, aktarım kuyruğu, klasör eşitleme ve Site Yöneticisi.<br>
+<sub>FileZilla, Cyberduck ve Transmit'e ücretsiz alternatif</sub>
 </td>
 <td align="center" valign="top" width="50%">
 <a href="https://github.com/macfreeware/MacRAR"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/icon.png" width="96" alt="MacRAR"></a><br>
 <a href="https://github.com/macfreeware/MacRAR"><b>MacRAR</b></a><br>
 <sub>Arşiv yöneticisi</sub><br><br>
-WinRAR tarzı: RAR, ZIP, 7Z ve TAR; Finder'da sağ tık menüsüyle.
+WinRAR tarzı: RAR, ZIP, 7Z ve TAR; Finder'da sağ tık menüsüyle.<br>
+<sub>WinRAR, Keka, BetterZip ve The Unarchiver'a ücretsiz alternatif</sub>
 </td>
 </tr>
 <tr>
@@ -121,13 +127,15 @@ WinRAR tarzı: RAR, ZIP, 7Z ve TAR; Finder'da sağ tık menüsüyle.
 <a href="https://github.com/macfreeware/MacCalendar"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/AppIconPreview.png" width="96" alt="MacCalendar"></a><br>
 <a href="https://github.com/macfreeware/MacCalendar"><b>MacCalendar</b></a><br>
 <sub>Menü çubuğu takvimi · dünya saati</sub><br><br>
-Menü çubuğunda takvim; bayraklı ikinci dünya saati, güne özel notlar ve 400+ şehir.
+Menü çubuğunda takvim; bayraklı ikinci dünya saati, güne özel notlar ve 400+ şehir.<br>
+<sub>Itsycal, Dato ve Clocker'a ücretsiz alternatif</sub>
 </td>
 <td align="center" valign="top" width="50%">
 <a href="https://github.com/macfreeware/MacMonitor"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/icon.png" width="96" alt="MacMonitor"></a><br>
 <a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a><br>
 <sub>Menü çubuğu CPU · RAM izleyici</sub><br><br>
-Menü çubuğunda canlı CPU ve RAM; tıklayınca çekirdek yükleri, bellek dağılımı, en çok kaynak kullanan işlemler ve disk boşluğu.
+Menü çubuğunda canlı CPU ve RAM; tıklayınca çekirdek yükleri, bellek dağılımı, en çok kaynak kullanan işlemler ve disk boşluğu.<br>
+<sub>iStat Menus, Stats ve MenuMeters'a ücretsiz alternatif</sub>
 </td>
 </tr>
 <tr>
@@ -160,4 +168,4 @@ Bir hata mı buldunuz, yoksa bir fikriniz mi var? Uygulamanın sayfasında bir "
 
 ## Not
 
-Bunlar bağımsız projelerdir. Apple, FileZilla ya da RARLAB/WinRAR ile bağlantılı değildir ve onlar tarafından desteklenmez. Bu adlar sahiplerine aittir ve yalnızca uygulamaların ne yaptığını anlatmak için kullanılır.
+Bunlar bağımsız projelerdir. Apple ile ya da burada adı geçen diğer uygulamaların (FileZilla, Cyberduck, Transmit, RARLAB/WinRAR, Keka, BetterZip, The Unarchiver, Itsycal, Dato, Clocker, iStat Menus, Stats, MenuMeters) yapımcılarıyla bağlantılı değildir ve onlar tarafından desteklenmez. Bu adlar sahiplerine aittir ve yalnızca uygulamaların ne yaptığını anlatmak için kullanılır.
