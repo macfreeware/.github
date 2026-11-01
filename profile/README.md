@@ -6,6 +6,8 @@
 
 Every app here started from the same idea: something on my own Mac was missing, slow or awkward, so I wrote a tool to fix it, with the help of AI. Once a tool made my daily work easier, I didn't want to keep it to myself. If it helps me, it may help you too, so I share them here, free and with their source code.
 
+**Website:** [macfreeware.github.io](https://macfreeware.github.io)
+
 The apps are developed on GitLab at [gitlab.com/freeware2](https://gitlab.com/freeware2) and mirrored here; downloads come from there.
 
 ## Apps
@@ -92,6 +94,8 @@ These are independent projects. They are not affiliated with or endorsed by Appl
 **macOS için küçük, ücretsiz ve açık kaynaklı araçlar; ihtiyaç duyduğum için yazdım.**
 
 Buradaki her uygulama aynı fikirle başladı: kendi Mac'imde bir şey eksikti, yavaştı ya da zahmetliydi; ben de AI desteğiyle onu çözen bir araç yazdım. Bir araç günlük işimi kolaylaştırınca onu yalnızca kendime saklamak istemedim. Benim işime yarıyorsa sizin de işinize yarayabilir; bu yüzden burada, ücretsiz ve kaynak koduyla birlikte paylaşıyorum.
+
+**Web sitesi:** [macfreeware.github.io/tr](https://macfreeware.github.io/tr/)
 
 Uygulamalar GitLab'da, [gitlab.com/freeware2](https://gitlab.com/freeware2) adresinde geliştirilir ve buraya yansıtılır; indirmeler oradan yapılır.
 
