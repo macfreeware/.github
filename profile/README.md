@@ -49,7 +49,7 @@ A calendar in the menu bar with a second world clock and flags, day notes and 40
 <a href="https://github.com/macfreeware/MacMonitor"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/icon.png" width="96" alt="MacMonitor"></a><br>
 <a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a><br>
 <sub>Menu bar CPU · RAM monitor</sub><br><br>
-Live CPU and RAM in the menu bar; per-core load, memory breakdown, top processes and free disk space with a click.<br>
+Live CPU and RAM in the menu bar; per-core load, memory breakdown, top processes, free disk space and a 90-day battery history with a click.<br>
 <sub>Free alternative to iStat Menus, Stats and MenuMeters</sub>
 </td>
 </tr>
@@ -138,7 +138,7 @@ Menü çubuğunda takvim; bayraklı ikinci dünya saati, güne özel notlar ve 4
 <a href="https://github.com/macfreeware/MacMonitor"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/icon.png" width="96" alt="MacMonitor"></a><br>
 <a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a><br>
 <sub>Menü çubuğu CPU · RAM izleyici</sub><br><br>
-Menü çubuğunda canlı CPU ve RAM; tıklayınca çekirdek yükleri, bellek dağılımı, en çok kaynak kullanan işlemler ve disk boşluğu.<br>
+Menü çubuğunda canlı CPU ve RAM; tıklayınca çekirdek yükleri, bellek dağılımı, en çok kaynak kullanan işlemler, disk boşluğu ve 90 günlük pil geçmişi.<br>
 <sub>iStat Menus, Stats ve MenuMeters'a ücretsiz alternatif</sub>
 </td>
 </tr>
