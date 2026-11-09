@@ -1,6 +1,6 @@
-🇬🇧 **English** · [🇹🇷 Türkçe](#user-content-türkçe)
-
 # Mac Freeware
+
+🇹🇷 Türkçe için sayfanın sonundaki bölümü açın ya da [siteye](https://macfreeware.github.io/tr/) gidin.
 
 **Small, free and open-source tools for macOS, made because I needed them.**
 
@@ -14,52 +14,34 @@ The apps are developed on GitLab at [gitlab.com/freeware2](https://gitlab.com/fr
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacZilla"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/Resources/AppIcon.png" width="96" alt="MacZilla"></a><br>
-<a href="https://github.com/macfreeware/MacZilla"><b>MacZilla</b></a><br>
-<sub>FTP · FTPS · SFTP client</sub><br><br>
-In the spirit of FileZilla: two panes, tabs, a transfer queue, folder sync and a Site Manager.<br>
-<sub>Free alternative to FileZilla, Cyberduck and Transmit</sub>
-</td>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacRAR"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/icon.png" width="96" alt="MacRAR"></a><br>
-<a href="https://github.com/macfreeware/MacRAR"><b>MacRAR</b></a><br>
-<sub>Archive manager</sub><br><br>
-WinRAR-style: RAR, ZIP, 7Z and TAR, with a Finder right-click menu.<br>
-<sub>Free alternative to WinRAR, Keka, BetterZip and The Unarchiver</sub>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/macnotepp"><img src="https://macfreeware.github.io/assets/img/macnotepp-icon.png" width="56" alt="MacNote++"></a></td>
+<td><a href="https://github.com/macfreeware/macnotepp"><b>MacNote++</b></a> · Text, code and hex editor<br><sub>A free alternative to <b>BBEdit</b>, <b>CotEditor</b> and <b>Sublime Text</b> for everyday text and code editing on the Mac.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macnotepp/-/releases/permalink/latest/downloads/MacNotePP.zip"><img src="https://gitlab.com/freeware2/macnotepp/-/raw/main/docs/download-button.png" height="52" alt="Download MacNote++"></a></td>
 </tr>
 <tr>
-<td align="center">
-<a href="https://gitlab.com/freeware2/maczilla/-/releases/permalink/latest/downloads/MacZilla.zip"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/docs/download-button.png" height="52" alt="Download MacZilla"></a>
-</td>
-<td align="center">
-<a href="https://gitlab.com/freeware2/macrar/-/releases/permalink/latest/downloads/MacRAR.pkg"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/download-button.png" height="52" alt="Download MacRAR"></a>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacExplorer"><img src="https://macfreeware.github.io/assets/img/macexplorer-icon.png" width="56" alt="MacExplorer"></a></td>
+<td><a href="https://github.com/macfreeware/MacExplorer"><b>MacExplorer</b></a> · Windows Explorer-style file manager<br><sub>A free alternative to <b>Finder</b>, <b>Path Finder</b>, <b>ForkLift</b> and <b>Commander One</b> for people who miss Windows Explorer on the Mac.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macexplorer/-/releases/permalink/latest/downloads/MacExplorer.zip"><img src="https://gitlab.com/freeware2/macexplorer/-/raw/main/docs/download-button.png" height="52" alt="Download MacExplorer"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacCalendar"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/AppIconPreview.png" width="96" alt="MacCalendar"></a><br>
-<a href="https://github.com/macfreeware/MacCalendar"><b>MacCalendar</b></a><br>
-<sub>Menu bar calendar · world clock</sub><br><br>
-A calendar in the menu bar with a second world clock and flags, day notes and 400+ cities.<br>
-<sub>Free alternative to Itsycal, Dato and Clocker</sub>
-</td>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacMonitor"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/icon.png" width="96" alt="MacMonitor"></a><br>
-<a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a><br>
-<sub>Menu bar CPU · RAM monitor</sub><br><br>
-Live CPU and RAM in the menu bar; per-core load, memory breakdown, top processes, free disk space and a 90-day battery history with a click.<br>
-<sub>Free alternative to iStat Menus, Stats and MenuMeters</sub>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacMonitor"><img src="https://macfreeware.github.io/assets/img/macmonitor-icon.png" width="56" alt="MacMonitor"></a></td>
+<td><a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a> · Menu bar CPU, RAM, network, disk and battery monitor<br><sub>A lightweight, free alternative to <b>iStat Menus</b>, <b>Stats</b> and <b>MenuMeters</b> when you only need CPU, memory, disk and battery at a glance.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macmonitor/-/releases/permalink/latest/downloads/MacMonitor.pkg"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/download-button.png" height="52" alt="Download MacMonitor"></a></td>
 </tr>
 <tr>
-<td align="center">
-<a href="https://gitlab.com/freeware2/maccalendar/-/releases/permalink/latest/downloads/MacCalendar.pkg"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/docs/download-button.png" height="52" alt="Download MacCalendar"></a>
-</td>
-<td align="center">
-<a href="https://gitlab.com/freeware2/macmonitor/-/releases/permalink/latest/downloads/MacMonitor.pkg"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/download-button.png" height="52" alt="Download MacMonitor"></a>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacCalendar"><img src="https://macfreeware.github.io/assets/img/maccalendar-icon.png" width="56" alt="MacCalendar"></a></td>
+<td><a href="https://github.com/macfreeware/MacCalendar"><b>MacCalendar</b></a> · Menu bar calendar and world clock<br><sub>A free alternative to <b>Itsycal</b>, <b>Dato</b> and <b>Clocker</b>: a month calendar and a second time zone right in the menu bar.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/maccalendar/-/releases/permalink/latest/downloads/MacCalendar.pkg"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/docs/download-button.png" height="52" alt="Download MacCalendar"></a></td>
+</tr>
+<tr>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacRAR"><img src="https://macfreeware.github.io/assets/img/macrar-icon.png" width="56" alt="MacRAR"></a></td>
+<td><a href="https://github.com/macfreeware/MacRAR"><b>MacRAR</b></a> · WinRAR-style archive manager<br><sub>A free <b>WinRAR</b> alternative for the Mac, and an alternative to <b>Keka</b>, <b>BetterZip</b> and <b>The Unarchiver</b>.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macrar/-/releases/permalink/latest/downloads/MacRAR.pkg"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/download-button.png" height="52" alt="Download MacRAR"></a></td>
+</tr>
+<tr>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacZilla"><img src="https://macfreeware.github.io/assets/img/maczilla-icon.png" width="56" alt="MacZilla"></a></td>
+<td><a href="https://github.com/macfreeware/MacZilla"><b>MacZilla</b></a> · FTP, FTPS and SFTP client<br><sub>A free, native alternative to <b>FileZilla</b>, <b>Cyberduck</b> and <b>Transmit</b> on the Mac.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/maczilla/-/releases/permalink/latest/downloads/MacZilla.zip"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/docs/download-button.png" height="52" alt="Download MacZilla"></a></td>
 </tr>
 </table>
 
@@ -68,7 +50,7 @@ More tools will be added here as they become ready.
 ## What they have in common
 
 - **Open source:** released under the GNU GPL, version 3 or later. You can read, change and share the code.
-- **Native Mac apps:** written in Swift and SwiftUI. No Electron, no web wrapper. They run on Apple Silicon and Intel Macs.
+- **Native Mac apps:** written in Swift, with SwiftUI and AppKit. No Electron, no web wrapper. They run on Apple Silicon and Intel Macs.
 - **In English and Turkish.**
 
 ## Before you install
@@ -83,13 +65,12 @@ Found a bug or have an idea? Open an issue on the app's page. Suggestions are we
 
 ## Note
 
-These are independent projects. They are not affiliated with or endorsed by Apple or by the makers of the other apps named here (FileZilla, Cyberduck, Transmit, RARLAB/WinRAR, Keka, BetterZip, The Unarchiver, Itsycal, Dato, Clocker, iStat Menus, Stats, MenuMeters); those names belong to their owners and are used only to describe what the apps do.
+These are independent projects. They are not affiliated with or endorsed by Apple, Microsoft or the makers of the other apps named here; those names belong to their owners and are used only to describe what the apps do.
 
 ---
 
-## Türkçe
-
-# Mac Freeware
+<details>
+<summary>🇹🇷 <b>Türkçe</b></summary>
 
 **macOS için küçük, ücretsiz ve açık kaynaklı araçlar; ihtiyaç duyduğum için yazdım.**
 
@@ -103,52 +84,34 @@ Uygulamalar GitLab'da, [gitlab.com/freeware2](https://gitlab.com/freeware2) adre
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacZilla"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/Resources/AppIcon.png" width="96" alt="MacZilla"></a><br>
-<a href="https://github.com/macfreeware/MacZilla"><b>MacZilla</b></a><br>
-<sub>FTP · FTPS · SFTP istemcisi</sub><br><br>
-FileZilla tarzı: iki panel, sekmeler, aktarım kuyruğu, klasör eşitleme ve Site Yöneticisi.<br>
-<sub>FileZilla, Cyberduck ve Transmit'e ücretsiz alternatif</sub>
-</td>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacRAR"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/icon.png" width="96" alt="MacRAR"></a><br>
-<a href="https://github.com/macfreeware/MacRAR"><b>MacRAR</b></a><br>
-<sub>Arşiv yöneticisi</sub><br><br>
-WinRAR tarzı: RAR, ZIP, 7Z ve TAR; Finder'da sağ tık menüsüyle.<br>
-<sub>WinRAR, Keka, BetterZip ve The Unarchiver'a ücretsiz alternatif</sub>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/macnotepp"><img src="https://macfreeware.github.io/assets/img/macnotepp-icon.png" width="56" alt="MacNote++"></a></td>
+<td><a href="https://github.com/macfreeware/macnotepp"><b>MacNote++</b></a> · Metin, kod ve hex düzenleyici<br><sub>Mac'te günlük metin ve kod düzenleme için <b>BBEdit</b>, <b>CotEditor</b> ve <b>Sublime Text</b>'e ücretsiz bir alternatif.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macnotepp/-/releases/permalink/latest/downloads/MacNotePP.zip"><img src="https://gitlab.com/freeware2/macnotepp/-/raw/main/docs/download-button-tr.png" height="52" alt="İndir: MacNote++"></a></td>
 </tr>
 <tr>
-<td align="center">
-<a href="https://gitlab.com/freeware2/maczilla/-/releases/permalink/latest/downloads/MacZilla.zip"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/docs/download-button-tr.png" height="52" alt="MacZilla'yı indir"></a>
-</td>
-<td align="center">
-<a href="https://gitlab.com/freeware2/macrar/-/releases/permalink/latest/downloads/MacRAR.pkg"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/download-button-tr.png" height="52" alt="MacRAR'ı indir"></a>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacExplorer"><img src="https://macfreeware.github.io/assets/img/macexplorer-icon.png" width="56" alt="MacExplorer"></a></td>
+<td><a href="https://github.com/macfreeware/MacExplorer"><b>MacExplorer</b></a> · Windows Gezgini tarzı dosya yöneticisi<br><sub>Mac'te Windows Gezgini'ni arayanlar için <b>Finder</b>, <b>Path Finder</b>, <b>ForkLift</b> ve <b>Commander One</b>'a ücretsiz bir alternatif.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macexplorer/-/releases/permalink/latest/downloads/MacExplorer.zip"><img src="https://gitlab.com/freeware2/macexplorer/-/raw/main/docs/download-button-tr.png" height="52" alt="İndir: MacExplorer"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacCalendar"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/AppIconPreview.png" width="96" alt="MacCalendar"></a><br>
-<a href="https://github.com/macfreeware/MacCalendar"><b>MacCalendar</b></a><br>
-<sub>Menü çubuğu takvimi · dünya saati</sub><br><br>
-Menü çubuğunda takvim; bayraklı ikinci dünya saati, güne özel notlar ve 400+ şehir.<br>
-<sub>Itsycal, Dato ve Clocker'a ücretsiz alternatif</sub>
-</td>
-<td align="center" valign="top" width="50%">
-<a href="https://github.com/macfreeware/MacMonitor"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/icon.png" width="96" alt="MacMonitor"></a><br>
-<a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a><br>
-<sub>Menü çubuğu CPU · RAM izleyici</sub><br><br>
-Menü çubuğunda canlı CPU ve RAM; tıklayınca çekirdek yükleri, bellek dağılımı, en çok kaynak kullanan işlemler, disk boşluğu ve 90 günlük pil geçmişi.<br>
-<sub>iStat Menus, Stats ve MenuMeters'a ücretsiz alternatif</sub>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacMonitor"><img src="https://macfreeware.github.io/assets/img/macmonitor-icon.png" width="56" alt="MacMonitor"></a></td>
+<td><a href="https://github.com/macfreeware/MacMonitor"><b>MacMonitor</b></a> · Menü çubuğu CPU, RAM, ağ, disk ve pil izleyici<br><sub>Yalnızca CPU, bellek, disk ve pile bir bakışta göz atmak istiyorsanız <b>iStat Menus</b>, <b>Stats</b> ve <b>MenuMeters</b>'a hafif ve ücretsiz bir alternatif.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macmonitor/-/releases/permalink/latest/downloads/MacMonitor.pkg"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/download-button-tr.png" height="52" alt="İndir: MacMonitor"></a></td>
 </tr>
 <tr>
-<td align="center">
-<a href="https://gitlab.com/freeware2/maccalendar/-/releases/permalink/latest/downloads/MacCalendar.pkg"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/docs/download-button-tr.png" height="52" alt="MacCalendar'ı indir"></a>
-</td>
-<td align="center">
-<a href="https://gitlab.com/freeware2/macmonitor/-/releases/permalink/latest/downloads/MacMonitor.pkg"><img src="https://gitlab.com/freeware2/macmonitor/-/raw/main/docs/download-button-tr.png" height="52" alt="MacMonitor'ı indir"></a>
-</td>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacCalendar"><img src="https://macfreeware.github.io/assets/img/maccalendar-icon.png" width="56" alt="MacCalendar"></a></td>
+<td><a href="https://github.com/macfreeware/MacCalendar"><b>MacCalendar</b></a> · Menü çubuğu takvimi ve dünya saati<br><sub><b>Itsycal</b>, <b>Dato</b> ve <b>Clocker</b>'a ücretsiz bir alternatif: menü çubuğunda aylık takvim ve ikinci bir saat dilimi.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/maccalendar/-/releases/permalink/latest/downloads/MacCalendar.pkg"><img src="https://gitlab.com/freeware2/maccalendar/-/raw/main/docs/download-button-tr.png" height="52" alt="İndir: MacCalendar"></a></td>
+</tr>
+<tr>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacRAR"><img src="https://macfreeware.github.io/assets/img/macrar-icon.png" width="56" alt="MacRAR"></a></td>
+<td><a href="https://github.com/macfreeware/MacRAR"><b>MacRAR</b></a> · WinRAR tarzı arşiv yöneticisi<br><sub>Mac için ücretsiz bir <b>WinRAR</b> alternatifi; <b>Keka</b>, <b>BetterZip</b> ve <b>The Unarchiver</b>'a da alternatif.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/macrar/-/releases/permalink/latest/downloads/MacRAR.pkg"><img src="https://gitlab.com/freeware2/macrar/-/raw/main/docs/download-button-tr.png" height="52" alt="İndir: MacRAR"></a></td>
+</tr>
+<tr>
+<td align="center" width="72"><a href="https://github.com/macfreeware/MacZilla"><img src="https://macfreeware.github.io/assets/img/maczilla-icon.png" width="56" alt="MacZilla"></a></td>
+<td><a href="https://github.com/macfreeware/MacZilla"><b>MacZilla</b></a> · FTP, FTPS ve SFTP istemcisi<br><sub>Mac'te <b>FileZilla</b>, <b>Cyberduck</b> ve <b>Transmit</b>'e ücretsiz ve yerel bir alternatif.</sub></td>
+<td align="center"><a href="https://gitlab.com/freeware2/maczilla/-/releases/permalink/latest/downloads/MacZilla.zip"><img src="https://gitlab.com/freeware2/maczilla/-/raw/main/docs/download-button-tr.png" height="52" alt="İndir: MacZilla"></a></td>
 </tr>
 </table>
 
@@ -157,7 +120,7 @@ Yeni araçlar hazır oldukça buraya eklenecek.
 ## Ortak özellikleri
 
 - **Açık kaynak:** GNU GPL sürüm 3 ya da sonrası lisansıyla yayımlanır. Kodu okuyabilir, değiştirebilir ve paylaşabilirsiniz.
-- **Yerel Mac uygulamaları:** Swift ve SwiftUI ile yazıldı. Electron ya da web sarmalayıcısı yok. Apple Silicon ve Intel Mac'lerde çalışır.
+- **Yerel Mac uygulamaları:** Swift ile, SwiftUI ve AppKit kullanılarak yazıldı. Electron ya da web sarmalayıcısı yok. Apple Silicon ve Intel Mac'lerde çalışır.
 - **Türkçe ve İngilizce.**
 
 ## Kurmadan önce
@@ -172,4 +135,6 @@ Bir hata mı buldunuz, yoksa bir fikriniz mi var? Uygulamanın sayfasında bir "
 
 ## Not
 
-Bunlar bağımsız projelerdir. Apple ile ya da burada adı geçen diğer uygulamaların (FileZilla, Cyberduck, Transmit, RARLAB/WinRAR, Keka, BetterZip, The Unarchiver, Itsycal, Dato, Clocker, iStat Menus, Stats, MenuMeters) yapımcılarıyla bağlantılı değildir ve onlar tarafından desteklenmez. Bu adlar sahiplerine aittir ve yalnızca uygulamaların ne yaptığını anlatmak için kullanılır.
+Bunlar bağımsız projelerdir. Apple, Microsoft ya da burada adı geçen diğer uygulamaların yapımcılarıyla bağlantılı değildir ve onlar tarafından desteklenmez. Bu adlar sahiplerine aittir ve yalnızca uygulamaların ne yaptığını anlatmak için kullanılır.
+
+</details>
